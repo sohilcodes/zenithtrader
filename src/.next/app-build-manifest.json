@@ -40,14 +40,6 @@
       "static/chunks/874-1b000b193d37d3a8.js",
       "static/chunks/app/beginner-guides/page-221f1dc0b823ee93.js"
     ],
-    "/about/page": [
-      "static/chunks/webpack-29ebadaebe2fcb3f.js",
-      "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
-      "static/chunks/684-d3e7ebf062e2d114.js",
-      "static/chunks/main-app-b574fcae663421bc.js",
-      "static/chunks/63-42740a14c4e0a29b.js",
-      "static/chunks/app/about/page-96833fd0fb057f17.js"
-    ],
     "/blog/[slug]/page": [
       "static/chunks/webpack-29ebadaebe2fcb3f.js",
       "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
@@ -63,6 +55,29 @@
       "static/chunks/main-app-b574fcae663421bc.js",
       "static/chunks/874-1b000b193d37d3a8.js",
       "static/chunks/app/candlestick-patterns/page-e4cd7d3f43f57da4.js"
+    ],
+    "/privacy-policy/page": [
+      "static/chunks/webpack-29ebadaebe2fcb3f.js",
+      "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
+      "static/chunks/684-d3e7ebf062e2d114.js",
+      "static/chunks/main-app-b574fcae663421bc.js",
+      "static/chunks/app/privacy-policy/page-c9bd3f89e6700930.js"
+    ],
+    "/risk-management/page": [
+      "static/chunks/webpack-29ebadaebe2fcb3f.js",
+      "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
+      "static/chunks/684-d3e7ebf062e2d114.js",
+      "static/chunks/main-app-b574fcae663421bc.js",
+      "static/chunks/874-1b000b193d37d3a8.js",
+      "static/chunks/app/risk-management/page-708ca0d48a2e5ba0.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-29ebadaebe2fcb3f.js",
+      "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
+      "static/chunks/684-d3e7ebf062e2d114.js",
+      "static/chunks/main-app-b574fcae663421bc.js",
+      "static/chunks/63-42740a14c4e0a29b.js",
+      "static/chunks/app/about/page-96833fd0fb057f17.js"
     ],
     "/contact/page": [
       "static/chunks/webpack-29ebadaebe2fcb3f.js",
@@ -87,21 +102,6 @@
       "static/chunks/main-app-b574fcae663421bc.js",
       "static/chunks/874-1b000b193d37d3a8.js",
       "static/chunks/app/trading-psychology/page-a69955e3b61ef04e.js"
-    ],
-    "/privacy-policy/page": [
-      "static/chunks/webpack-29ebadaebe2fcb3f.js",
-      "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
-      "static/chunks/684-d3e7ebf062e2d114.js",
-      "static/chunks/main-app-b574fcae663421bc.js",
-      "static/chunks/app/privacy-policy/page-c9bd3f89e6700930.js"
-    ],
-    "/risk-management/page": [
-      "static/chunks/webpack-29ebadaebe2fcb3f.js",
-      "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
-      "static/chunks/684-d3e7ebf062e2d114.js",
-      "static/chunks/main-app-b574fcae663421bc.js",
-      "static/chunks/874-1b000b193d37d3a8.js",
-      "static/chunks/app/risk-management/page-708ca0d48a2e5ba0.js"
     ]
   }
 }
