@@ -1,14 +1,14 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/sitemap.xml/route": "app/sitemap.xml/route.js",
   "/robots.txt/route": "app/robots.txt/route.js",
-  "/about/page": "app/about/page.js",
-  "/candlestick-patterns/page": "app/candlestick-patterns/page.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
   "/beginner-guides/page": "app/beginner-guides/page.js",
+  "/about/page": "app/about/page.js",
+  "/blog/[slug]/page": "app/blog/[slug]/page.js",
+  "/candlestick-patterns/page": "app/candlestick-patterns/page.js",
   "/contact/page": "app/contact/page.js",
-  "/privacy-policy/page": "app/privacy-policy/page.js",
-  "/risk-management/page": "app/risk-management/page.js",
   "/page": "app/page.js",
   "/trading-psychology/page": "app/trading-psychology/page.js",
-  "/blog/[slug]/page": "app/blog/[slug]/page.js"
+  "/privacy-policy/page": "app/privacy-policy/page.js",
+  "/risk-management/page": "app/risk-management/page.js"
 }

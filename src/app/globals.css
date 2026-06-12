@@ -241,7 +241,7 @@ body {
 /* ─── Article Typography ─────────────────────────── */
 .article-body h1 { @apply text-3xl font-bold text-white mb-6 mt-8  }
 .article-body h2 { @apply text-2xl font-bold text-white mb-4 mt-8; border-bottom: 1px solid rgba(212,175,55,0.2); padding-bottom: 8px; }
-.article-body h3 { @apply text-xl font-semibold text-gold-light mb-3 mt-6; }
+.article-body h3 { @apply text-xl font-semibold text-yellow-400 mb-3 mt-6; }
 .article-body p { @apply text-gray-300 leading-relaxed mb-5 text-base; }
 .article-body ul { @apply list-none mb-5 space-y-2; }
 .article-body ul li { @apply text-gray-300 pl-6 relative; }
@@ -249,14 +249,14 @@ body {
 .article-body ol { @apply list-decimal list-inside mb-5 space-y-2; }
 .article-body ol li { @apply text-gray-300; }
 .article-body strong { @apply text-white font-semibold; }
-.article-body em { @apply text-gold-light; }
+.article-body em { @apply text-yellow-400; }
 .article-body a { @apply text-emerald-light hover:text-emerald transition-colors underline underline-offset-2; }
 .article-body blockquote { @apply border-l-4 border-gold pl-6 py-2 my-6 italic text-gray-300 bg-surface rounded-r-lg; }
 .article-body code { @apply bg-surface-2 text-emerald-light px-2 py-0.5 rounded text-sm font-mono; }
 .article-body pre { @apply bg-surface-2 p-4 rounded-lg mb-5 overflow-x-auto; }
 .article-body hr { @apply my-8 border-border; }
 .article-body table { @apply w-full mb-5 text-sm; }
-.article-body th { @apply text-left p-3 bg-surface-2 text-gold-light border border-border; }
+.article-body th { @apply text-left p-3 bg-surface-2 text-yellow-400 border border-border; }
 .article-body td { @apply p-3 border border-border text-gray-300; }
 
 /* ─── Noise Texture ─────────────────────────────── */
