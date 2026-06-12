@@ -1,0 +1,107 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-29ebadaebe2fcb3f.js",
+      "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
+      "static/chunks/684-d3e7ebf062e2d114.js",
+      "static/chunks/main-app-b574fcae663421bc.js",
+      "static/chunks/app/_not-found/page-e9981ade8acf2af4.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-29ebadaebe2fcb3f.js",
+      "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
+      "static/chunks/684-d3e7ebf062e2d114.js",
+      "static/chunks/main-app-b574fcae663421bc.js",
+      "static/css/6c47644d177c0c2d.css",
+      "static/chunks/874-1b000b193d37d3a8.js",
+      "static/chunks/63-42740a14c4e0a29b.js",
+      "static/chunks/357-2834a828e48ba0b1.js",
+      "static/chunks/app/layout-edc4c4ea0cc96df2.js"
+    ],
+    "/sitemap.xml/route": [
+      "static/chunks/webpack-29ebadaebe2fcb3f.js",
+      "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
+      "static/chunks/684-d3e7ebf062e2d114.js",
+      "static/chunks/main-app-b574fcae663421bc.js",
+      "static/chunks/app/sitemap.xml/route-56035ff8205a1a37.js"
+    ],
+    "/robots.txt/route": [
+      "static/chunks/webpack-29ebadaebe2fcb3f.js",
+      "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
+      "static/chunks/684-d3e7ebf062e2d114.js",
+      "static/chunks/main-app-b574fcae663421bc.js",
+      "static/chunks/app/robots.txt/route-5b041dbf8bde8b6d.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-29ebadaebe2fcb3f.js",
+      "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
+      "static/chunks/684-d3e7ebf062e2d114.js",
+      "static/chunks/main-app-b574fcae663421bc.js",
+      "static/chunks/63-42740a14c4e0a29b.js",
+      "static/chunks/app/about/page-96833fd0fb057f17.js"
+    ],
+    "/candlestick-patterns/page": [
+      "static/chunks/webpack-29ebadaebe2fcb3f.js",
+      "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
+      "static/chunks/684-d3e7ebf062e2d114.js",
+      "static/chunks/main-app-b574fcae663421bc.js",
+      "static/chunks/874-1b000b193d37d3a8.js",
+      "static/chunks/app/candlestick-patterns/page-e4cd7d3f43f57da4.js"
+    ],
+    "/beginner-guides/page": [
+      "static/chunks/webpack-29ebadaebe2fcb3f.js",
+      "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
+      "static/chunks/684-d3e7ebf062e2d114.js",
+      "static/chunks/main-app-b574fcae663421bc.js",
+      "static/chunks/874-1b000b193d37d3a8.js",
+      "static/chunks/app/beginner-guides/page-221f1dc0b823ee93.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-29ebadaebe2fcb3f.js",
+      "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
+      "static/chunks/684-d3e7ebf062e2d114.js",
+      "static/chunks/main-app-b574fcae663421bc.js",
+      "static/chunks/app/contact/page-7dacd0892c0f66ac.js"
+    ],
+    "/privacy-policy/page": [
+      "static/chunks/webpack-29ebadaebe2fcb3f.js",
+      "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
+      "static/chunks/684-d3e7ebf062e2d114.js",
+      "static/chunks/main-app-b574fcae663421bc.js",
+      "static/chunks/app/privacy-policy/page-c9bd3f89e6700930.js"
+    ],
+    "/risk-management/page": [
+      "static/chunks/webpack-29ebadaebe2fcb3f.js",
+      "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
+      "static/chunks/684-d3e7ebf062e2d114.js",
+      "static/chunks/main-app-b574fcae663421bc.js",
+      "static/chunks/874-1b000b193d37d3a8.js",
+      "static/chunks/app/risk-management/page-708ca0d48a2e5ba0.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-29ebadaebe2fcb3f.js",
+      "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
+      "static/chunks/684-d3e7ebf062e2d114.js",
+      "static/chunks/main-app-b574fcae663421bc.js",
+      "static/chunks/874-1b000b193d37d3a8.js",
+      "static/chunks/63-42740a14c4e0a29b.js",
+      "static/chunks/app/page-f7ee316b63814bc0.js"
+    ],
+    "/trading-psychology/page": [
+      "static/chunks/webpack-29ebadaebe2fcb3f.js",
+      "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
+      "static/chunks/684-d3e7ebf062e2d114.js",
+      "static/chunks/main-app-b574fcae663421bc.js",
+      "static/chunks/874-1b000b193d37d3a8.js",
+      "static/chunks/app/trading-psychology/page-a69955e3b61ef04e.js"
+    ],
+    "/blog/[slug]/page": [
+      "static/chunks/webpack-29ebadaebe2fcb3f.js",
+      "static/chunks/4bd1b696-3dbde35d4f172e4c.js",
+      "static/chunks/684-d3e7ebf062e2d114.js",
+      "static/chunks/main-app-b574fcae663421bc.js",
+      "static/chunks/874-1b000b193d37d3a8.js",
+      "static/chunks/app/blog/[slug]/page-d69892b5b4cfb01c.js"
+    ]
+  }
+}

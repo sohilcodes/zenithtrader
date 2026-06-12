@@ -239,7 +239,7 @@ body {
 }
 
 /* ─── Article Typography ─────────────────────────── */
-.article-body h1 { @apply text-3xl font-bold text-white mb-6 mt-8 font-display; }
+.article-body h1 { @apply text-3xl font-bold text-white mb-6 mt-8  }
 .article-body h2 { @apply text-2xl font-bold text-white mb-4 mt-8; border-bottom: 1px solid rgba(212,175,55,0.2); padding-bottom: 8px; }
 .article-body h3 { @apply text-xl font-semibold text-gold-light mb-3 mt-6; }
 .article-body p { @apply text-gray-300 leading-relaxed mb-5 text-base; }
