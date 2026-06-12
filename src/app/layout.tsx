@@ -24,7 +24,7 @@ const jetbrains = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://zenithtraderacademy.com"),
+  metadataBase: new URL("https://zenithtrader.vercel.app"),
   title: {
     default: "Zenith Trader Academy | Trading Education",
     template: "%s | Zenith Trader Academy",
@@ -60,7 +60,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://zenithtraderacademy.com",
+    url: "https://zenithtrader.vercel.app",
     siteName: "Zenith Trader Academy",
     title: "Zenith Trader Academy | Trading Education",
     description:
@@ -86,7 +86,7 @@ export const metadata: Metadata = {
     google: "YOUR_GOOGLE_SEARCH_CONSOLE_VERIFICATION_CODE",
   },
   alternates: {
-    canonical: "https://zenithtraderacademy.com",
+    canonical: "https://zenithtrader.vercel.app",
   },
 };
 

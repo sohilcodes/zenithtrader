@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 import { posts } from "@/lib/posts";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://zenithtraderacademy.com";
+  const baseUrl = "https://zenithtrader.vercel.app";
 
   const staticPages = [
     { url: baseUrl, lastModified: new Date(), changeFrequency: "weekly" as const, priority: 1.0 },

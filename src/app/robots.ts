@@ -9,7 +9,7 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/api/", "/_next/"],
       },
     ],
-    sitemap: "https://zenithtraderacademy.com/sitemap.xml",
-    host: "https://zenithtraderacademy.com",
+    sitemap: "https://zenithtrader.vercel.app/sitemap.xml",
+    host: "https://zenithtrader.vercel.app",
   };
 }
